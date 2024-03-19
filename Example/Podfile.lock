@@ -1,0 +1,16 @@
+PODS:
+  - TinyJSON (1.0.0)
+
+DEPENDENCIES:
+  - TinyJSON (from `../`)
+
+EXTERNAL SOURCES:
+  TinyJSON:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TinyJSON: 8dac90ea3253c6c573d61d1a57f20a881e9b9cba
+
+PODFILE CHECKSUM: f25cce5264f8ad2e6c85bf49650a9bcd9a9bc9a3
+
+COCOAPODS: 1.10.2
